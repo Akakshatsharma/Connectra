@@ -180,4 +180,10 @@ GitHub: [@Akakshatsharma](https://github.com/Akakshatsharma)
 
 ## 📄 License
 
+<<<<<<< HEAD
 No license file is currently included in this repository. Add one (e.g. MIT) if you intend for others to reuse this code.
+=======
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+>>>>>>> 97a0f0a (docs: add README and MIT license)
